@@ -1,2 +1,5 @@
+Mohamed Nabil Ali
+Group:3
+
 # mohamednabil-72-Database-Assignment-2-Creating-Tables
 Assignment repo for assignment/1-12 (Database Assignment 2 : Creating Tables)
